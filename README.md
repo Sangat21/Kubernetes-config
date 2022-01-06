@@ -1,3 +1,6 @@
+#### A web application with mongodb deployed into a local Kubernetes cluster
+Based on walkthrough video by: https://www.youtube.com/watch?v=s_o8dwzRlu4
+
 ### Repository for the K8s in 1 hour video
 
 #### K8s manifest files 
